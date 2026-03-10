@@ -53,7 +53,9 @@ The main objective of this project is to develop a functional system capable of 
 
 ![Route Tracking](images/First-image.jpg)
 
-![System Setup](images/GPS-data-on-screen)
+![System Setup](images/GPS-data-on-screen.png)
+
+![Race track](images/racetrack.jpg)
 
 ---
 
