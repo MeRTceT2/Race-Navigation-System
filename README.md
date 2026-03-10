@@ -49,11 +49,11 @@ The main objective of this project is to develop a functional system capable of 
 
 ## Project Images
 
-![Interface](images/arayuz.png)
+![Interface](images/Receiving-data-from-GPS.jpg)
 
-![Route Tracking](images/rota-takibi.png)
+![Route Tracking](images/First-image.jpg)
 
-![System Setup](images/sistem.png)
+![System Setup](images/GPS-data-on-screen)
 
 ---
 
