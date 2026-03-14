@@ -47,6 +47,39 @@ The main objective of this project is to develop a functional system capable of 
 
 ---
 
+## Technical Documentation
+
+A detailed system design and implementation explanation is available in the technical report.
+
+Technical Design Report:  
+`docs/race_navigation_technical_design_report.pdf`
+
+This document includes system architecture, design decisions, and detailed explanations of the navigation logic.
+
+---
+
+## Source Code
+
+The navigation and visualization logic of the system is implemented in Python.
+
+Python Implementation:  
+`code/gpx_viewer.py`
+
+The code processes GPS data, compares it with GPX route coordinates, and updates the graphical interface in real time.
+
+---
+
+## Route Data
+
+The predefined race route used by the system is stored in GPX format.
+
+GPX Route File:  
+`data/track.gpx`
+
+This file contains the GPS coordinates of the race track used for route matching and visualization.
+
+---
+
 ## Project Images
 
 ![Interface](images/Receiving-data-from-GPS.jpg)
