@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="www.plotaroute.com" version="1.1"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>Route created on plotaroute.com</desc>
+</metadata>
+<wpt lat="40.7875196" lon="29.4514918">
+<time>2025-07-06T00:21:44Z</time>
+<name>FINISH</name>
+<cmt>FINISH</cmt>
+<desc>FINISH</desc>
+<sym>Flag, Blue</sym>
+<type>Waypoint</type>
+</wpt>
+<trk>
+<name>Yarıs_pist_m</name>
+<trkseg>
+<trkpt lat="40.7875196" lon="29.4514918">
+<ele>179</ele>
+<time>2025-07-06T00:00:00Z</time></trkpt>
+<trkpt lat="40.7883482" lon="29.4564378">
+<ele>179</ele>
+<time>2025-07-06T00:06:43Z</time></trkpt>
+<trkpt lat="40.7885066" lon="29.4571352">
+<ele>179</ele>
+<time>2025-07-06T00:07:38Z</time></trkpt>
+<trkpt lat="40.7883726" lon="29.4572103">
+<ele>179</ele>
+<time>2025-07-06T00:07:52Z</time></trkpt>
+<trkpt lat="40.7872962" lon="29.4578379">
+<ele>178</ele>
+<time>2025-07-06T00:09:49Z</time></trkpt>
+<trkpt lat="40.7872759" lon="29.4578004">
+<ele>178</ele>
+<time>2025-07-06T00:09:53Z</time></trkpt>
+<trkpt lat="40.7872719" lon="29.4574571">
+<ele>179</ele>
+<time>2025-07-06T00:10:26Z</time></trkpt>
+<trkpt lat="40.7872069" lon="29.456411">
+<ele>182</ele>
+<time>2025-07-06T00:12:04Z</time></trkpt>
+<trkpt lat="40.7871805" lon="29.4562018">
+<ele>182</ele>
+<time>2025-07-06T00:12:23Z</time></trkpt>
+<trkpt lat="40.7871785" lon="29.4561481">
+<ele>182</ele>
+<time>2025-07-06T00:12:28Z</time></trkpt>
+<trkpt lat="40.7871521" lon="29.4560677">
+<ele>182</ele>
+<time>2025-07-06T00:12:36Z</time></trkpt>
+<trkpt lat="40.7870546" lon="29.4558102">
+<ele>183</ele>
+<time>2025-07-06T00:13:01Z</time></trkpt>
+<trkpt lat="40.7869855" lon="29.4555983">
+<ele>183</ele>
+<time>2025-07-06T00:13:19Z</time></trkpt>
+<trkpt lat="40.7869408" lon="29.4555017">
+<ele>183</ele>
+<time>2025-07-06T00:13:27Z</time></trkpt>
+<trkpt lat="40.7868799" lon="29.4553998">
+<ele>182</ele>
+<time>2025-07-06T00:13:37Z</time></trkpt>
+<trkpt lat="40.7868068" lon="29.4552684">
+<ele>183</ele>
+<time>2025-07-06T00:13:49Z</time></trkpt>
+<trkpt lat="40.7867357" lon="29.4551343">
+<ele>183</ele>
+<time>2025-07-06T00:14:02Z</time></trkpt>
+<trkpt lat="40.7866911" lon="29.4551048">
+<ele>183</ele>
+<time>2025-07-06T00:14:07Z</time></trkpt>
+<trkpt lat="40.7866179" lon="29.4550672">
+<ele>183</ele>
+<time>2025-07-06T00:14:15Z</time></trkpt>
+<trkpt lat="40.7865245" lon="29.4550002">
+<ele>183</ele>
+<time>2025-07-06T00:14:25Z</time></trkpt>
+<trkpt lat="40.7864535" lon="29.4549626">
+<ele>182</ele>
+<time>2025-07-06T00:14:32Z</time></trkpt>
+<trkpt lat="40.7863986" lon="29.4549331">
+<ele>182</ele>
+<time>2025-07-06T00:14:37Z</time></trkpt>
+<trkpt lat="40.78636" lon="29.4548821">
+<ele>182</ele>
+<time>2025-07-06T00:14:42Z</time></trkpt>
+<trkpt lat="40.7859803" lon="29.4543511">
+<ele>180</ele>
+<time>2025-07-06T00:15:33Z</time></trkpt>
+<trkpt lat="40.7857589" lon="29.4539219">
+<ele>178</ele>
+<time>2025-07-06T00:16:06Z</time></trkpt>
+<trkpt lat="40.7859275" lon="29.4527927">
+<ele>176</ele>
+<time>2025-07-06T00:17:31Z</time></trkpt>
+<trkpt lat="40.78649" lon="29.4527391">
+<ele>176</ele>
+<time>2025-07-06T00:18:32Z</time></trkpt>
+<trkpt lat="40.7866443" lon="29.4526076">
+<ele>176</ele>
+<time>2025-07-06T00:18:52Z</time></trkpt>
+<trkpt lat="40.7867114" lon="29.4524789">
+<ele>176</ele>
+<time>2025-07-06T00:19:05Z</time></trkpt>
+<trkpt lat="40.7868292" lon="29.4523823">
+<ele>177</ele>
+<time>2025-07-06T00:19:20Z</time></trkpt>
+<trkpt lat="40.7869429" lon="29.4523072">
+<ele>177</ele>
+<time>2025-07-06T00:19:34Z</time></trkpt>
+<trkpt lat="40.7871439" lon="29.452216">
+<ele>178</ele>
+<time>2025-07-06T00:19:59Z</time></trkpt>
+<trkpt lat="40.787213" lon="29.452098">
+<ele>178</ele>
+<time>2025-07-06T00:20:12Z</time></trkpt>
+<trkpt lat="40.7873856" lon="29.4513497">
+<ele>180</ele>
+<time>2025-07-06T00:21:21Z</time></trkpt>
+<trkpt lat="40.7874242" lon="29.4512987">
+<ele>180</ele>
+<time>2025-07-06T00:21:26Z</time></trkpt>
+<trkpt lat="40.7874546" lon="29.4513363">
+<ele>179</ele>
+<time>2025-07-06T00:21:31Z</time></trkpt>
+<trkpt lat="40.7875196" lon="29.4514918">
+<ele>179</ele>
+<time>2025-07-06T00:21:44Z</time></trkpt>
+</trkseg>
+</trk>
+</gpx>
