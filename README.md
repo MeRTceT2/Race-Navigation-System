@@ -1,107 +1,53 @@
 # Race Navigation System
 
-> This project was developed to gain practical engineering experience in electronic system development, location tracking, and real-time data visualization.
+> A Raspberry Pi-based project for displaying a vehicle's position on a predefined route in race and route-tracking scenarios.
 
----
+## Overview
 
-## Project Overview
+The system combines GPS position data with a GPX route and displays both through a graphical interface. Its objective is to provide real-time location tracking, route interpretation and an at-a-glance view for the user.
 
-This project was developed to display the real-time position of a vehicle on a predefined route in race or route-tracking scenarios. The system is designed based on a Raspberry Pi platform. Data obtained from the GPS module is matched with GPX route data and visualized through a graphical interface.
+## Work performed
 
----
+- Set up the Raspberry Pi system.
+- Read live position data from a GPS module.
+- Integrated GPX route data and developed route-position matching logic.
+- Displayed the route and vehicle position in a graphical interface.
+- Implemented a real-time tracking structure.
 
-## Project Objective
+## Technologies
 
-The main objective of this project is to develop a functional system capable of real-time location tracking, interpreting route data, and presenting instant information to the user through a simple interface.
+- Raspberry Pi and GPS module
+- Python and GPX route data
+- Graphical interface components
 
----
+The project brings together embedded-system development, GPS data processing, route matching, real-time visualization and user-interface development.
 
-## Work Performed
+## Documentation and project files
 
-- Raspberry Pi–based system infrastructure was created  
-- Live location data was obtained from a GPS module  
-- GPX route data was integrated into the system  
-- Route–position matching logic was developed  
-- Vehicle position and route were visualized on a graphical interface  
-- Real-time tracking structure was implemented  
+- [Technical design report](race_navigation_technical_design_report.pdf)
+- [Python implementation](gpx_viewer.py)
+- [Race route](track.gpx)
 
----
+The technical report describes the system architecture, design decisions and navigation logic. The GPX file contains the predefined race track used by the project.
 
-## Technologies Used
+## Project images
 
-- Raspberry Pi  
-- GPS Module  
-- Python  
-- GPX Route Data  
-- Graphical Interface Components  
+![Interface receiving GPS data](images/Receiving-data-from-GPS.jpg)
 
----
+![Route tracking](images/First-image.jpg)
 
-## Technical Skills Gained
-
-- Embedded system development  
-- GPS data processing  
-- Route matching algorithms  
-- Real-time data visualization  
-- User interface development  
-
----
-
-## Technical Documentation
-
-A detailed system design and implementation explanation is available in the technical report.
-
-Technical Design Report:  
-`docs/race_navigation_technical_design_report.pdf`
-
-This document includes system architecture, design decisions, and detailed explanations of the navigation logic.
-
----
-
-## Source Code
-
-The navigation and visualization logic of the system is implemented in Python.
-
-Python Implementation:  
-`code/gpx_viewer.py`
-
-The code processes GPS data, compares it with GPX route coordinates, and updates the graphical interface in real time.
-
----
-
-## Route Data
-
-The predefined race route used by the system is stored in GPX format.
-
-GPX Route File:  
-`data/track.gpx`
-
-This file contains the GPS coordinates of the race track used for route matching and visualization.
-
----
-
-## Project Images
-
-![Interface](images/Receiving-data-from-GPS.jpg)
-
-![Route Tracking](images/First-image.jpg)
-
-![System Setup](images/GPS-data-on-screen.png)
+![GPS data on screen](images/GPS-data-on-screen.png)
 
 ![Race track](images/racetrack.jpg)
 
----
+## Future improvements
 
-## Future Improvements
+- Add speed and direction information.
+- Calculate remaining distance.
+- Use a more advanced map interface.
+- Add touchscreen support.
+- Improve position-correction accuracy.
 
-- Speed and direction information
-- Remaining distance calculation
-- More advanced map infrastructure
-- Touchscreen support
-- More accurate position correction algorithms
+## Summary
 
----
-
-## Conclusion
-
-This project presents a functional prototype for real-time location tracking and route visualization. It also demonstrates practical experience in Raspberry Pi–based system development and hardware–software integration.
+This project presents a functional prototype for real-time location tracking and route visualization, and provides practical experience with Raspberry Pi-based system development and hardware-software integration.
