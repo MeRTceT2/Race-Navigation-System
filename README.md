@@ -20,6 +20,8 @@ The system combines GPS position data with a GPX route and displays both through
 - Python and GPX route data
 - Graphical interface components
 
+The project brings together embedded-system development, GPS data processing, route matching, real-time visualization and user-interface development.
+
 ## Documentation and project files
 
 - [Technical design report](race_navigation_technical_design_report.pdf)
